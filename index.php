@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
   </head>
   <body>
+  <div>
     <!-- Mobile Sidebar Menu Button -->
     <button class="sidebar-menu-button">
       <span class="material-symbols-rounded">menu</span>
@@ -26,7 +27,6 @@
         </button>
       </header>
       <nav class="sidebar-nav">
-</div>
         <!-- Primary Top Nav -->
         <ul class="nav-list primary-nav">
           <li class="nav-item">
