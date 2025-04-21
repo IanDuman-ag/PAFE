@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Coding By CodingNepal - youtube.com/@codingnepal -->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -10,7 +9,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
   </head>
   <body>
-  <div>
+
     <!-- Mobile Sidebar Menu Button -->
     <button class="sidebar-menu-button">
       <span class="material-symbols-rounded">menu</span>
@@ -126,7 +125,7 @@
         </ul>
       </nav>
     </aside>
-</div>
+
     <!-- Script -->
     <script src="script.js"></script>
   </body>
