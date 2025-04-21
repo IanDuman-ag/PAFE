@@ -26,6 +26,7 @@
         </button>
       </header>
       <nav class="sidebar-nav">
+</div>
         <!-- Primary Top Nav -->
         <ul class="nav-list primary-nav">
           <li class="nav-item">
@@ -65,9 +66,8 @@
             <!-- Dropdown Menu -->
             <ul class="dropdown-menu">
               <li class="nav-item"><a class="nav-link dropdown-title">Events</a></li>
-              <li class="nav-item"><a href="#" class="nav-link dropdown-link">Events Calendar</a></li>
-              <li class="nav-item"><a href="#" class="nav-link dropdown-link">Event Forms</a></li>
-              <li class="nav-item"><a href="#" class="nav-link dropdown-link">Events  Schedule</a></li>
+              <li class="nav-item"><a href="#" class="nav-link dropdown-link">Create Event</a></li>
+              <li class="nav-item"><a href="#" class="nav-link dropdown-link">View  Schedule</a></li>
             </ul>
           </li>
           <!-- Dropdown -->
